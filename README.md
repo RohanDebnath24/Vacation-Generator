@@ -21,7 +21,7 @@ This is a simple web application that helps users generate vacation destinations
 
 ## Getting Started
 
-ollow these steps to get the web app up and running on your local machine.
+Follow these steps to get the web app up and running on your local machine.
 
 ## Prerequisites
 Before you begin, make sure you have the following dependencies installed:
