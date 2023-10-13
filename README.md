@@ -50,7 +50,7 @@ Replace (Place_your_OpenAI_API_key_here) with your actual OpenAI API keys.
 
 ## License
 
-his project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 Feel free to customize this README to include any additional information or details relevant to your specific project. Also, don't forget to provide clear and concise documentation for your API keys and any other configuration requirements to make it easy for others to use your web application.
 
